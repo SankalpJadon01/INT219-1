@@ -1,0 +1,55 @@
+body {
+    background-color: rgb(13, 18, 19);
+}
+
+legend {
+    background-color: blueviolet;
+}
+
+input {
+    background-color: goldenrod;
+}
+
+.fs1 {
+    background-color: grey;
+    font-size: medium;
+    font-style: italic;
+    font: bold;
+}
+
+.fs2 {
+    background-color: dimgrey;
+    font-size: medium;
+    font-style: italic;
+    font: bold;
+}
+
+button {
+    background-color: goldenrod;
+    font-size: medium;
+}
+
+.h11 {
+    color: goldenrod;
+    float: right;
+}
+
+img {
+    float: right;
+}
+
+select {
+    font-size: medium;
+}
+
+a {
+    color: black;
+}
+
+iframe {
+    background-color: burlywood;
+}
+
+legend {
+    text-align: center;
+}
